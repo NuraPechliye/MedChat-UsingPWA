@@ -1,0 +1,19 @@
+{
+  
+  "short_name": "ChatMed-Offline",
+
+  "name": "ChatMed",
+
+  "description": "Aplicação para ter informações básicas sobre saúde e sintomas preocupantes de forma offline e simples.",
+  
+  "start_url": "./index.html",
+
+  "display": "standalone",
+
+  "theme_color": "#2196f3",
+
+  "background_color": "#2196f3"
+
+  
+  
+}
