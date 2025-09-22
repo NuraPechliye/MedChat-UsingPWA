@@ -12,7 +12,18 @@ self.addEventListener ('install', function(event){
                 'https://github.com/NuraPechliye/MedChat-UsingPWA.git/index.js',
                 'https://github.com/NuraPechliye/MedChat-UsingPWA.git/style.css',
                 'https://github.com/NuraPechliye/MedChat-UsingPWA.git/img/iconlogo.png',
-                'https://github.com/NuraPechliye/MedChat-UsingPWA.git/manifest.json'
+                'https://github.com/NuraPechliye/MedChat-UsingPWA.git/manifest.json',
+                'https://github.com/NuraPechliye/MedChat-UsingPWA.git/icons/icon-48x48.png',
+                'https://github.com/NuraPechliye/MedChat-UsingPWA.git/icons/icon-72x72.png',
+                'https://github.com/NuraPechliye/MedChat-UsingPWA.git/icons/icon-96x96.png',
+                'https://github.com/NuraPechliye/MedChat-UsingPWA.git/icons/icon-128x128.png',
+                'https://github.com/NuraPechliye/MedChat-UsingPWA.git/icons/icon-144x144.png',
+                'https://github.com/NuraPechliye/MedChat-UsingPWA.git/icons/icon-152x152.png',
+                'https://github.com/NuraPechliye/MedChat-UsingPWA.git/icons/icon-192x192.png',
+                'https://github.com/NuraPechliye/MedChat-UsingPWA.git/icons/icon-256x256.png',
+                'https://github.com/NuraPechliye/MedChat-UsingPWA.git/icons/icon-384x384.png',
+                'https://github.com/NuraPechliye/MedChat-UsingPWA.git/icons/icon-512x512.png'
+
 
             ])
 
